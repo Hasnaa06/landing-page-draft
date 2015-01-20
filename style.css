@@ -1,0 +1,64 @@
+body {
+	font-family:'Open Sans', sans-serif;
+}
+
+.padded {
+	padding-top: 6em;
+	padding-bottom: 6em;
+}
+
+#banner p {
+	font-size: 18px;
+	font-weight: 300;
+}
+
+#banner h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 50px;
+	text-shadow: 1px 1px 2px rgb(100, 100, 100);
+}
+
+#banner {
+	background-image: url(images/harakat.jpg);
+	height: 600px;
+	padding-top: 200px;
+	color: white;
+	padding-left: 20px;
+}
+.fa-envelope-o {
+	padding-left: 120%;
+}
+
+.icon p {
+	font-size: 18px;
+	font-weight: 300;
+}
+.icon img {
+	width: 50px;
+}
+
+.icon h2 {
+	font-size: 25px;
+	text-shadow: 1px 1px 2px rgb(100, 100, 100);
+}
+
+#form {
+	padding-top: 50px
+}
+
+#footer {
+	background-color: #EEEEEE;
+	font-size: 30px;
+	text-align: center;
+	font-size: 20px;
+	color: #F9BF3B;
+}
+
+#footer a {
+	color: #F9BF3B;
+	font-size: 30px;
+}
+
+#footer a:hover {
+	color: white;
+}
